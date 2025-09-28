@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sakshi Shaiv</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 - 🌱 I’m currently learning **Data Structure & Algorithm in C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SakshiShaiv/SakshiShaiv/](https://github.com/SakshiShaiv/SakshiShaiv/)
 
-- 💬 Ask me about **Flutter , Next.js**
+- 💬 Ask me about **Python , React**
 
 - 📫 How to reach me **sakshishaiv4@gmail.com**
 
